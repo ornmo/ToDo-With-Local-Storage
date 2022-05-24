@@ -1,7 +1,9 @@
-This project is made of background images that expand when clicked on. 
+This project is a ToDo list which stores items in the local storage.
+Its can be marked as completed or even deleted altogether
 
 It uses Flexbox, CSS transitions and JavaScript
 
 This could be converted to be used in (for example) the following ways
 
-- 
+- neat little app
+- personal local storage ToDo list
